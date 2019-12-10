@@ -1,4 +1,3 @@
-# hr_project
 
 ![Alt Text](https://media.giphy.com/media/3ornkeA6BgebRyJjfW/giphy.gif)
 
