@@ -9,7 +9,7 @@
 **Outcomes Predictions**: The model yielded 2,722 employees out of the 11,428 current employees may be potentially leaving the company. 211 of the 2,722 them are what I considered high performers.
 
 
-**Data Acquisition**: csv file from google drive
+**Data Acquisition**: csv file (https://github.com/harrislam1/hr_project/blob/master/hr-data.csv)
 
 
 **Data Preparation**: 'Satisfaction level' and 'last evaluation' metrics were provided as percentages, whereas 'time spent at company', 'average monthly hours', 'number of projects', 'work accident', 'promotion in last 5 years', and 'churn' were provided as integers. 'Salary' and 'department' metrics were categorical values. The first step was to scale the integer values into a percentage and to dummy the categorical values. Then, balancing the data set was the following step since the target feature(churn) was only 24% of the data set. 
